@@ -1,0 +1,67 @@
+
+.header {
+  width: 100%;
+  padding: 2%;
+  background-color: #a7cb00;
+  color: white;
+  text-align: center;
+}
+
+@media screen and (max-width: 500px) {
+  .mrgnbtm {
+    margin-top: 20px;
+  }
+}
+@media (min-width:1025px) {
+  .mrgnbtm {
+    /* position: absolute;    */
+    left: 50%;
+    margin-top: 20px;
+  }
+}
+@media (min-width:1281px) {
+  .mrgnbtm {
+    /* position: absolute;    */
+    left: 50%;
+    margin-top: 20px;
+  }
+}
+
+.btn-file {
+  color: #fff;
+  background-color: #a7cb00;
+  border-color: #a7cb00;
+  margin: 0;
+  position: absolute;
+  width: 93%;
+  border-radius: 10px;
+}
+
+.btn-submit {
+  color: #fff;
+  background-color: green;
+  border-color: green;
+  margin: 0;
+  position: absolute;
+  width: 93%;
+  border-radius: 10px;
+}
+
+.h3, h3 {
+  text-align: center;
+}
+.h6, h6 {
+  text-align: center;
+}
+.form{
+  background: #f5f7f8;
+  padding: 1.5em;
+  border-radius: 1em;
+}
+html, body, #root, .App, .container, .row, .form {
+  min-height: 8vh;
+}
+p{
+  font-size: '7px';
+  font-weight: 500;
+}

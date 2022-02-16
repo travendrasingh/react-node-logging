@@ -1,0 +1,8 @@
+{"level":"error","timestamp":"01-22-05 01:09:08 pm"}
+{"level":"error","timestamp":"01-22-05 01:09:08 pm"}
+{"level":"error","timestamp":"01-22-05 01:10:56 pm"}
+{"level":"error","timestamp":"01-22-05 01:10:56 pm"}
+{"level":"error","name":"SequelizeDatabaseError","original":{"code":"ER_WARN_DATA_OUT_OF_RANGE","errno":1264,"sql":"call sp_get_user('9650507596');","sqlMessage":"Out of range value for column 'in_mobile_no' at row 1","sqlState":"22003"},"parent":{"code":"ER_WARN_DATA_OUT_OF_RANGE","errno":1264,"sql":"call sp_get_user('9650507596');","sqlMessage":"Out of range value for column 'in_mobile_no' at row 1","sqlState":"22003"},"sql":"call sp_get_user('9650507596');","timestamp":"01-22-05 01:11:22 pm"}
+{"level":"error","name":"SequelizeDatabaseError","original":{"code":"ER_WARN_DATA_OUT_OF_RANGE","errno":1264,"sql":"call sp_get_user('9650507596');","sqlMessage":"Out of range value for column 'in_mobile_no' at row 1","sqlState":"22003"},"parent":{"code":"ER_WARN_DATA_OUT_OF_RANGE","errno":1264,"sql":"call sp_get_user('9650507596');","sqlMessage":"Out of range value for column 'in_mobile_no' at row 1","sqlState":"22003"},"sql":"call sp_get_user('9650507596');","timestamp":"01-22-05 01:11:22 pm"}
+{"level":"error","timestamp":"01-22-05 01:56:33 pm"}
+{"level":"error","timestamp":"01-22-05 01:56:33 pm"}
